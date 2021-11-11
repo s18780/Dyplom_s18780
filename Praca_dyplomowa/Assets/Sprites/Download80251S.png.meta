@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: 0340c52930d1d924daec90e6a6c13aa3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1559905938766976868
+    second: Download80251S_0
+  - first:
+      213: -3241066568806212965
+    second: Download80251S_1
+  - first:
+      213: 2097124565376164669
+    second: Download80251S_2
+  - first:
+      213: -2643002520838059866
+    second: Download80251S_3
+  - first:
+      213: 7567610506444421391
+    second: Download80251S_4
+  - first:
+      213: 7931357682787789119
+    second: Download80251S_5
+  - first:
+      213: -534477175206954713
+    second: Download80251S_6
+  - first:
+      213: -101176730677129672
+    second: Download80251S_7
+  - first:
+      213: -7444535948563991870
+    second: Download80251S_8
+  - first:
+      213: -3324016251424002475
+    second: Download80251S_9
+  - first:
+      213: -9023063475170350615
+    second: Download80251S_10
+  - first:
+      213: 8705271182373467825
+    second: Download80251S_11
+  - first:
+      213: 8251259738500486855
+    second: Download80251S_12
+  - first:
+      213: 5664933351067940512
+    second: Download80251S_13
+  - first:
+      213: -1986113644120222509
+    second: Download80251S_14
+  - first:
+      213: 1766031664163418298
+    second: Download80251S_15
+  - first:
+      213: 526337869602304623
+    second: Download80251S_16
+  - first:
+      213: -1519407660654794505
+    second: Download80251S_17
+  - first:
+      213: -9079921156811545580
+    second: Download80251S_18
+  - first:
+      213: -8440188186729307460
+    second: Download80251S_19
+  - first:
+      213: -1911722882829532088
+    second: Download80251S_20
+  - first:
+      213: -3110424884170232347
+    second: Download80251S_21
+  - first:
+      213: 62754316318615638
+    second: Download80251S_22
+  - first:
+      213: -3825132193479733831
+    second: Download80251S_23
+  - first:
+      213: 5969153545789788721
+    second: Download80251S_24
+  - first:
+      213: -2516898127585816762
+    second: Download80251S_25
+  - first:
+      213: 3971458970883897100
+    second: Download80251S_26
+  - first:
+      213: 5955137205590190163
+    second: Download80251S_27
+  - first:
+      213: -275234972345568587
+    second: Download80251S_28
+  - first:
+      213: 4359015745637167888
+    second: Download80251S_29
+  - first:
+      213: -9187243355469674922
+    second: Download80251S_30
+  - first:
+      213: -7121444725434291504
+    second: Download80251S_31
+  - first:
+      213: -2234621819133250034
+    second: Download80251S_32
+  - first:
+      213: -7817017327436089237
+    second: Download80251S_33
+  - first:
+      213: -6950791618900785818
+    second: Download80251S_34
+  - first:
+      213: 5685775521793286077
+    second: Download80251S_35
+  - first:
+      213: -7982999002666400417
+    second: Download80251S_36
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Download80251S_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 193
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98a5cc30d91a5ae0800000000000000
+      internalID: -1559905938766976868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 193
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a59e8a02b6503d0800000000000000
+      internalID: -3241066568806212965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_2
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33edf06eab7a1d10800000000000000
+      internalID: 2097124565376164669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 191
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a84cf4e53b225bd0800000000000000
+      internalID: -2643002520838059866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 191
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09322329ad850960800000000000000
+      internalID: 7567610506444421391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 193
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39a1255ac7d11e60800000000000000
+      internalID: 7931357682787789119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 192
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7293c3747d72598f0800000000000000
+      internalID: -534477175206954713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 191
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e447cac4c889ef0800000000000000
+      internalID: -101176730677129672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_8
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 255
+        width: 63
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2b7346ff1bfa890800000000000000
+      internalID: -7444535948563991870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 192
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e2f3aa4d8bed1d0800000000000000
+      internalID: -3324016251424002475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e96ba85393a7c280800000000000000
+      internalID: -9023063475170350615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 129
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6b0d294065fc870800000000000000
+      internalID: 8705271182373467825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 130
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6ddced30d528270800000000000000
+      internalID: 8251259738500486855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 130
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6faa26ed2ed9e40800000000000000
+      internalID: 5664933351067940512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_14
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d458aed928ef64e0800000000000000
+      internalID: -1986113644120222509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 129
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab07d841174328810800000000000000
+      internalID: 1766031664163418298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_16
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 129
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f623b75f08ded4700800000000000000
+      internalID: 526337869602304623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 129
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8e9a568caf9eae0800000000000000
+      internalID: -1519407660654794505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_18
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 129
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414a1bbb0d3adf180800000000000000
+      internalID: -9079921156811545580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 65
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb22d8cef8d6eda80800000000000000
+      internalID: -8440188186729307460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 65
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844c5f3ba223875e0800000000000000
+      internalID: -1911722882829532088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed6f7e2c0d85d4d0800000000000000
+      internalID: -3110424884170232347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 63
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6582b4cd7b2fed000800000000000000
+      internalID: 62754316318615638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_23
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 64
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdcab459866aeac0800000000000000
+      internalID: -3825132193479733831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 65
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13250922681b6d250800000000000000
+      internalID: 5969153545789788721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_25
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 64
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fc661fc7e221dd0800000000000000
+      internalID: -2516898127585816762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_26
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 64
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07b29f64e47d1730800000000000000
+      internalID: 3971458970883897100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_27
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 64
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586aef9cb5e4a250800000000000000
+      internalID: 5955137205590190163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2f39b304b2e2cf0800000000000000
+      internalID: -275234972345568587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_29
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013b901c9b55e7c30800000000000000
+      internalID: 4359015745637167888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_30
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 656892428da508080800000000000000
+      internalID: -9187243355469674922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae8e4d0cb8b2d90800000000000000
+      internalID: -7121444725434291504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06b9378b470df0e0800000000000000
+      internalID: -2234621819133250034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_33
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6839133820648390800000000000000
+      internalID: -7817017327436089237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_34
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66508a779d3d98f90800000000000000
+      internalID: -6950791618900785818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_35
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf991966bee7ee40800000000000000
+      internalID: 5685775521793286077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Download80251S_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 0
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5585cbe3b0b63190800000000000000
+      internalID: -7982999002666400417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2f0d019cd45e4264f90f4af0f3fb5d29
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
